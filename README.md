@@ -1,0 +1,2 @@
+# Unreachable Code in Julia
+This example demonstrates a common error in Julia: unreachable code.  The code includes a section that will never be executed because the function always returns before reaching it.  The solution shows how to remove the unreachable code for cleaner, more efficient code.
